@@ -31,6 +31,9 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
+### My Elastic Beanstalk Endpoint
+http://localhost:8082/filteredimage?image_url=https://static.wikia.nocookie.net/leagueoflegends/images/9/9b/Kai%27Sa_Universe_Background.jpg/revision/latest/scale-to-width-down/1920?cb=20201105120026
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
